@@ -1,6 +1,6 @@
 # Simple-video-call-app
 
-## Webrtc architecture
+## WebRTC architecture
 
 ![alt text](https://github.com/saifadin1/Simple-video-call-app/blob/main/assets/Screenshot%202024-10-11%20021357.png)
 
